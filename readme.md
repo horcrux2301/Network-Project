@@ -1,4 +1,4 @@
-# Computer Networks Riverbed Modeller Project
+# Computer Networks Riverbed Modeler Project
 
-A Riverbed Modeller Project to compare elastic and inelastic traffic.
+A Riverbed Modeler Project to compare elastic and inelastic traffic.
 
